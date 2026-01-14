@@ -283,3 +283,5 @@ dev-debug.log
 .taskmaster/
 
 script/optimize_readme_assets.py
+temp_auto_push.bat
+temp_interactive_push.bat
